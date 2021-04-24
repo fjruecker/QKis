@@ -1,0 +1,2 @@
+# QKis
+Krankenhausinformationssystem in Qt
